@@ -19,7 +19,4 @@ This tool is capable of scraping Telegram members from public groups and exporti
 - Our Telegram channel: [TgBotsXyzChannel](https://t.me/TgBotsXyzChannel)
 - Direct message: [TgBotsXyz](https://t.me/TgBotsXyz)
 
-# Buy Now
-Two Options:
-- Purchase at [software.telegrambots.xyz](https://software.telegrambots.xyz)
-- Contact us directly
+Contact us directly to purchase the tool
